@@ -1,0 +1,19 @@
+<svg id="background" >
+  <text id="title" class="title" />
+  <image class="heart-icon" href="images/heart.png" />
+  <text id="heartbeat" class="heartbeat"/>
+  <text id="duration" class="duration-msg defaultText" />
+  <svg class="container switch-fill">
+    <svg class="row">
+      <text id="label-session" class="defaultText" />
+      <use id="session-toggle" href="#toggle-switch" class="toggle-switch" />
+      <rect class="line" />
+    </svg>
+    <svg class="row">
+      <text id="label-animate" class="defaultText" />
+      <use id="animate-toggle" href="#toggle-switch" class="toggle-switch"
+      value="1" />
+      <rect class="line" />
+    </svg>
+  </svg>
+</svg>

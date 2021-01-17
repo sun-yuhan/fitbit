@@ -1,0 +1,16 @@
+<svg>
+  <defs>
+    <link rel="import" href="/mnt/sysassets/system_widget.defs" />
+
+    <link rel="import" href="/mnt/sysassets/widgets/baseview_widget.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/scrollbar.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/scrollview_widget.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/text_button.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/tile_list_widget.defs" />
+    <link rel="import" href="/mnt/sysassets/widgets/toggle_switch.defs" />
+
+    <link rel="stylesheet" href="/mnt/sysassets/colors_typography.css" />
+    <link rel="stylesheet" href="styles.css" />
+
+  </defs>
+</svg>
